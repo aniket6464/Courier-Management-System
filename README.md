@@ -6,7 +6,7 @@ The system has two types of user which is the Admin user and the Branch Staff us
 In contrast, the “Pickup” will be delivered to the company’s branch near the recipient address. The system admin or staff user can store or adds multiple items at the same time. Still, these items will be held in the database separately because each package has a different reference number or different tracking number. For example, Client 1 has three boxes of the package to be couriered to the same recipient. The system user can submit the parcel registration to the system at once but will be stored separately to generate a different unique reference number to track each item quickly.
 
 # Features of Courier Management System
-# Admin Side--
+# Admin Side-
 Login Page-
 The page where the admin user submits their system credentials to access the admin side of the system.
 
