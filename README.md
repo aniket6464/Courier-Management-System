@@ -8,27 +8,35 @@ In contrast, the “Pickup” will be delivered to the company’s branch near t
 # Features of Courier Management System
 Admin Side--
 Login Page
-	The page where the admin user submits their system credentials to access the admin side of the system.
+The page where the admin user submits their system credentials to access the admin side of the system.
+
 Home Page
-	The page where the admin user is being redirected by default after logging into the system. This page displays a summary of the data of the system.
+The page where the admin user is being redirected by default after logging into the system. This page displays a summary of the data of the system.
+
 New Branch Page
-	The page where the admin submits the information on the new branch of the courier company.
+The page where the admin submits the information on the new branch of the courier company.
+
 List of Branches Page
-	The page where all the branches of the courier company are listed and managed.
+The page where all the branches of the courier company are listed and managed.
+
 New Branch Staff Page
-	The page where the system admin creates a new user for the specific branch of the company.
+The page where the system admin creates a new user for the specific branch of the company.
+
 Branch Staff List Page 
-	The page where all of the staff users of the system in all branches are listed and managed.
+The page where all of the staff users of the system in all branches are listed and managed.
 
 Both Users -
 New Parcel Page
-	The page where can system users submit the information of the parcels such as the sender and recipient details.
+The page where can system users submit the information of the parcels such as the sender and recipient details.
+
 Parcel List Page
-	The page where the parcels are listed and managed.
+The page where the parcels are listed and managed.
+
 Parcel View Modal
-	The page that shows the parcel’s details.
+The page that shows the parcel’s details.
+
 Track Parcel Page
-	The page that displays the movement of the client’s packages or parcels.
+The page that displays the movement of the client’s packages or parcels.
 
 Report Page
-	The page where the printable list of the transaction of the courier company with the clients is listed.
+The page where the printable list of the transaction of the courier company with the clients is listed.
